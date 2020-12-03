@@ -1,0 +1,18 @@
+C:\Users\agata\Documents\programowanie c#\Cwiczenia1JD\Cwiczenia1JD\bin\Debug\Cwiczenia1JD.exe.config
+C:\Users\agata\Documents\programowanie c#\Cwiczenia1JD\Cwiczenia1JD\bin\Debug\Cwiczenia1JD.exe
+C:\Users\agata\Documents\programowanie c#\Cwiczenia1JD\Cwiczenia1JD\bin\Debug\Cwiczenia1JD.pdb
+C:\Users\agata\Documents\programowanie c#\Cwiczenia1JD\Cwiczenia1JD\obj\Debug\Cwiczenia1JD.csprojAssemblyReference.cache
+C:\Users\agata\Documents\programowanie c#\Cwiczenia1JD\Cwiczenia1JD\obj\Debug\Cwiczenia1JD.exe
+C:\Users\agata\Documents\programowanie c#\Cwiczenia1JD\Cwiczenia1JD\obj\Debug\Cwiczenia1JD.pdb
+C:\Users\agata\Documents\Studia\Semestr 3\programowanie c#\Cwiczenia1JD\Cwiczenia1JD\bin\Debug\Cwiczenia1JD.exe.config
+C:\Users\agata\Documents\Studia\Semestr 3\programowanie c#\Cwiczenia1JD\Cwiczenia1JD\bin\Debug\Cwiczenia1JD.exe
+C:\Users\agata\Documents\Studia\Semestr 3\programowanie c#\Cwiczenia1JD\Cwiczenia1JD\bin\Debug\Cwiczenia1JD.pdb
+C:\Users\agata\Documents\Studia\Semestr 3\programowanie c#\Cwiczenia1JD\Cwiczenia1JD\obj\Debug\Cwiczenia1JD.csprojAssemblyReference.cache
+C:\Users\agata\Documents\Studia\Semestr 3\programowanie c#\Cwiczenia1JD\Cwiczenia1JD\obj\Debug\Cwiczenia1JD.exe
+C:\Users\agata\Documents\Studia\Semestr 3\programowanie c#\Cwiczenia1JD\Cwiczenia1JD\obj\Debug\Cwiczenia1JD.pdb
+C:\Users\agata\Documents\Studia\Semestr 3\programowanie c#\Cwiczenia1\Cwiczenia1JD\bin\Debug\Cwiczenia1JD.exe.config
+C:\Users\agata\Documents\Studia\Semestr 3\programowanie c#\Cwiczenia1\Cwiczenia1JD\bin\Debug\Cwiczenia1JD.exe
+C:\Users\agata\Documents\Studia\Semestr 3\programowanie c#\Cwiczenia1\Cwiczenia1JD\bin\Debug\Cwiczenia1JD.pdb
+C:\Users\agata\Documents\Studia\Semestr 3\programowanie c#\Cwiczenia1\Cwiczenia1JD\obj\Debug\Cwiczenia1JD.csprojAssemblyReference.cache
+C:\Users\agata\Documents\Studia\Semestr 3\programowanie c#\Cwiczenia1\Cwiczenia1JD\obj\Debug\Cwiczenia1JD.exe
+C:\Users\agata\Documents\Studia\Semestr 3\programowanie c#\Cwiczenia1\Cwiczenia1JD\obj\Debug\Cwiczenia1JD.pdb
